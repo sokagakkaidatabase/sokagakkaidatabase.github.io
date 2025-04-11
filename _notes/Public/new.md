@@ -1,8 +1,7 @@
 ---
-title: Row Please
+title: Writings of Nichiren Daishonin I
 feed: show
 date: 11-04-2025
-format: list
 ---
 
-shaba
+1. Foreward
