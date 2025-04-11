@@ -2,7 +2,7 @@
 layout: Post
 permalink: /notes
 feedformat: row
-title: Digital Garden
+title: Search Database
 ---
 
-The
+Welcome to the Soka Gakkai database.
