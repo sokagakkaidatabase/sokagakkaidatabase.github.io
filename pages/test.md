@@ -1,7 +1,7 @@
 ---
 layout: Post
 permalink: /test
-feedformat: card
+feedformat: row
 title: This is a test
 ---
 
