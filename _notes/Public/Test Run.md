@@ -1,10 +1,7 @@
 ---
-title : Test run
+title : Writings of Nichiren Daishonin I
 feed: show
 date : 10-04-2025
-format: list
 ---
 
-Testing how this will look
-One two three
-shaaaa
+<a href="{{'/post/foreward' | relative_url}}"> Writings of Nichiren Daishonin - Foreward </a>
