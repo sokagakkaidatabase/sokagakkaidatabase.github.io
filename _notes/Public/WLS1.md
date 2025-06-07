@@ -1,5 +1,5 @@
 ---
-title: Chapter 1 - Surmounting the Absence of Philosophy in Our Age
+title: Vol 1 - Chapter 1 - Surmounting the Absence of Philosophy in Our Age
 feed: show
 date: 11-04-2025
 ---
